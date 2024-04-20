@@ -11,7 +11,7 @@ namespace OnlineShop.Mocks
             {
                 return new List<Category> {
                     new Category{categoryName= "Electro Transports",Description="Modern type transports"},
-                    new Category{categoryName="Classic Transports", Description="Cars with internal burning"}
+                    new Category{categoryName= "Classic Transports", Description="Cars with internal burning"}
                 
                 };
             }

@@ -6,5 +6,6 @@
         public string categoryName { get; set; }
         public string Description { get; set; }
         
+        public List<Car> cars { get; set; }
     }
 }
